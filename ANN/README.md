@@ -10,5 +10,5 @@ Las imágenes utilizadas fueran hechas por mí.
 Simplemente vale la pena decir eso.
 Si quieres utilizarlas, por favor, haz referencia a este repositorio.
 
-Puedes seguirme en instagram danieldb_multipotencial
+Puedes seguirme en instagram ddiazb16.
 
