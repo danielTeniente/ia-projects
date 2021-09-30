@@ -6,6 +6,6 @@ Temas explicados:
 * [Redes neuronales atractoras](./ANN/README.md)
 * [Álgebra lineal](./Algebra_lineal/README.md)
 * [Data Science](./data_science/README.md)
-* [Thompson Sampling Algorithm](./ThompsonSampling/README.md)
+* [Thompson Sampling Algorithm](./ThompsonSampling/Readme.md)
 
 
