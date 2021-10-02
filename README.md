@@ -7,5 +7,6 @@ Temas explicados:
 * [Álgebra lineal](./Algebra_lineal/README.md)
 * [Data Science](./data_science/README.md)
 * [Thompson Sampling Algorithm](./ThompsonSampling/Readme.md)
+* [Redes neuronales convolucionales](./CNN/Readme.md)
 
 
