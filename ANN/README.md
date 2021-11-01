@@ -3,7 +3,7 @@ El archivo [atractor_network.py](./atractor_network.py) contiene la reproducció
 frame a frame con cv2.
 
 El notebook explica cómo construir la red:
-* [ANN para reconstruir imágenes](./ANN/Attractor_network.ipynb)
+* [ANN para reconstruir imágenes](./Attractor_network.ipynb)
 
 ### Imágenes
 Las imágenes utilizadas fueran hechas por mí.
