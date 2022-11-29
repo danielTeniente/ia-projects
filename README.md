@@ -9,4 +9,6 @@ Temas explicados:
 * [Thompson Sampling Algorithm](./ThompsonSampling/Readme.md)
 * [Redes neuronales convolucionales](./CNN/Readme.md)
 
+## Curso de IA
+Nuevo repositorio para un [curso escrito de IA con python](https://github.com/danielTeniente/curso-IA).
 
